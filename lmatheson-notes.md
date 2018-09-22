@@ -1,5 +1,9 @@
 # Les Matheson's Notes
 
+## Experiments:
+
+[Prototype video slides][]
+
 ## Operational stuff
 
 - The node.js server (`npm start`) treats the reveal.js/ tree as web root.  The relative paths of its subdirs are mapped accordingly.
@@ -26,4 +30,5 @@
 Then, if you navigate to [the markdown hello-world page](./plugin/markdown/example.html), you find that it calls out to an [example.md](./plugin/markdown/example.md) with stuff that works in the browser as long as `npm start` is running in the `~/reveal.js/` directory.
 
 
+[Prototype video slides]: ./plugin/markdown/proto.html
 
