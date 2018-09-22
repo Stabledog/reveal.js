@@ -7,6 +7,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 
 ## Table of contents
 
+- [Les Matheson's Notes](./lmatheson-notes.md)
 - [Online Editor](#online-editor)
 - [Instructions](#instructions)
   - [Markup](#markup)
