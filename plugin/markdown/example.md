@@ -6,6 +6,8 @@
 
 Content 1.1
 
+So now we have slides!
+
 Note: This will only appear in the speaker notes window.
 
 
